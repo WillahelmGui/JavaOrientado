@@ -1,0 +1,19 @@
+Objetos tipo todo também podem ser tipo parte dependendo assim da requisição do projeto, assim como objetos do tipo todo podem existir mutuamente no mesmo projeto.
+
+Relacionamentos ou Associações são as relações dentrodo seu projeto sendo elas fortes(Composição, onde o objeto principal não existe sem o objeto parte) ou fracas(Associações - onde o objeto principal não é dependente do objeto a parte, no caso).
+
+O uso das classes na programção é deivada da biologia.
+E geralmente é separado pelas características semelhantes.
+
+Herança se trata da relação de uma classe "mãe", como por exemplo a classe conta e de uma classe "filha", exemplo uma classe chamada "Conta Poupança" onde ela herda as características que podem ser recursos da classe mãe para si, afim de adicionar ás suas características herdadas novas funcionalidades.
+ 
+
+O atributo "Abstract" impede a classe de ser instanciada, pode ser usado para impedir novos objetos dessa classe abstrata.
+
+protected é semelhante ao private, mas as variáveis só poderão ser acessadas também a partir das classes que herdam.
+
+Super refere-se ao construtor da classe mãe.
+
+O que é um Design Pattern? É uma boa prática no código, de forma a utilizar uma melhor forma de codificar algo. O que usaremos nessa aula se chama "Strategy", afim de eliminar os mútiplos If's no código.
+
+Para isso usaremos um recurso chamado "Interface".
