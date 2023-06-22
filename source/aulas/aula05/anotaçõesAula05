@@ -1,0 +1,12 @@
+Arrays e Collections
+
+Quando se instancia o vetor "int [] x" ele é um array unidimensional.
+o número de índicies do vetor não representa a localização dos mesmos, por exemplo:
+Será  -> "int [3] x = {0, 1, 2} " e não int [3] x = { 1, 2 , 3}.
+
+
+o for each é uma versão mais simples do for comum, também pode ser chamado de for melhorado
+
+
+Arraylist é usado para coisas randomicas e linkedlist para sequenciais.
+Aula06 pág 46 tem métodos da classe arraylist.
